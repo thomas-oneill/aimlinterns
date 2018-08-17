@@ -1,2 +1,2 @@
 # aimlinterns
-AI/ML Interns
+This repository will be used by AI/ML Interns
